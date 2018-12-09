@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Hello world!"
+title: Hello world!
 author: walter
-categories: [ hello ]
+categories:
+- hello
 image: assets/images/the-worst-is-yet-to-come.jpg
 featured: true
 hidden: true
----
 
+---
 # Hello world!
+
 There are big things coming to my site!
+
+YEET
