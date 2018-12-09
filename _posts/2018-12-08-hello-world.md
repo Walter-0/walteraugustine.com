@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Hello world!"
+author: walter
+categories: [ hello ]
+image: assets/images/the-worst-is-yet-to-come.jpg
+featured: true
+hidden: true
+---
+
+# Hello world!
+There are big things coming to my site!
