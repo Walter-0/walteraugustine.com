@@ -6,11 +6,11 @@ categories:
 - hello
 image: assets/images/the-worst-is-yet-to-come.jpg
 featured: true
-hidden: true
+hidden: false
 
 ---
 # Hello world!
 
 There are big things coming to my site!
 
-YEET
+If Mike is short for Michael, bike is short for bichael.
