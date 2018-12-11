@@ -1,85 +1,22 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
-comments: true
+title: About
 ---
 
-This website is built with Jekyll and Mediumish template for Jekyll. It is meant for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+My name is Walter. I'm an American web developer from Nashua, New Hampshire. I enjoy lifting weights, shooting guns, and playing the piano. I'm also obsessed with self-improvement.
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/mediumish-jekyll-template.png){: .shadow}
+I decided to start a blog because I want to help young guys like myself help themselves and become winners.
 
-### Features
+This is a comprehensive self-improvement blog. Whether your goal is to lose fat, build muscle, eat healthier, look better, earn more money, gain confidence, earn respect, have a relationship with an amazing girl, quit smoking or drugs, or cultivate inner peace, you've come to the right place.
 
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Share
-- Post Categories
-- Prev/Next Link
-- Category Archives (this is not yet compatible with github pages though)
-- Jumbotron Categories
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Mailchimp Integration
-- Design Features:
-    - Bootstrap v4.x
-    - Font Awesome
-    - Masonry
-- Layouts:
-    - Default
-    - Post
-    - Page
-    - Archive
-    
-### How to Use
+Self-improvement is a lifelong journey. Anyone at any age, in any country, with any amount of resources you have available can make meaningful, permanent, positive change. The only thing stopping you is yourself, and sometimes we're often our own worst enemy. Unless you're literally chained up in someone's basement, you have free will, and you have the power to change your life.
 
-If you aren't familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. No more databases, slow loading websites, risk of being hacked...just your content. And not only that, with Jekyll you get free hosting with GitHub Pages! This page itself is free hosted on Github with the help of Jekyll and Mediumish template that you're currently previewing. If you are a beginner we recommend you start with [Jekyll's Docs](https://jekyllrb.com/docs/installation/){:target="_blank"}. Now if you know how to use Jekyll, let's move on to using Mediumish template in Jekyll:
+I keep this prayer nailed to the wall by my front door as a reminder. It's a reminder that keeps me grounded and focused. I recommend that the first step you take in your self-improvement journey be to put up the text in a visible place in your daily life, somewhere you'll see it every day so you can internalize it. You don't even have to be religious for this prayer to apply to your life, but if a higher power is a motivating force in your life, more power to you.
 
-#### Using Mediumish
+<img src="../assets/images/prayer-of-serenity.jpg" title="Prayer of Serenity" alt="God grant me the serenity to accept the things I cannot change, courage to change the things I can, and the wisdom to know the difference." />
 
-Download or Fork *Mediumish for Jekyll*. 
-- In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, disqus username, authors, Mailchimp list etc.
-- Mediumish requires 2 plugins: 
-    - <code>$ gem install jekyll-paginate</code>
-    - <code>$ gem install jekyll-archives</code>.
-- Edit the menu and footer copyrights in <code>default.html</code>
-- Start by adding your .md files in <code>_posts</code>. Mediumish already has a few as an example. 
-- YAML front matter
-    - featured post - <code>featured:true</code>
-    - exclude featured post from "All stories" loop to avoid duplicated posts - <code>hidden:true</code>
-    - post image - <code>image: assets/images/mypic.jpg</code>
-    - external post image - <code>image: "https://externalwebsite.com/image4.jpg" </code>
-    - page comments - <code>comments:true</code>
-    - meta description (optional) - <code>description: "this is my meta description"</code>
-    
-YAML Post Example:
-<pre>
----
-layout: post
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
-featured: true
----
-</pre>
+Thanks for reading.
 
-YAML Page Example
-<pre>
----
-layout: page
-title: Mediumish Template for Jekyll
-comments: true
----
-</pre>
+Your boy,
 
-#### Contribute
-
-- [Clone the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-- Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-- Open a pull request on GitHub and describe the feature or fix.
-
-
-<a href="https://www.buymeacoffee.com/sal" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+Walter

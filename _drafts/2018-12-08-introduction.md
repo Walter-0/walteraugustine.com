@@ -4,7 +4,7 @@ title: Introduction
 author: walter
 categories:
 - intro
-image: assets/images/the-worst-is-yet-to-come.jpg
+image: assets/images/me.png
 featured: true
 hidden: false
 
