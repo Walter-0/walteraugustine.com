@@ -19,10 +19,8 @@ Self-improvement is a lifelong journey. Anyone at any age, in any country, with 
 
 I keep this prayer nailed to the wall by my front door as a reminder. It's a reminder that keeps me grounded and focused. I recommend that the first step you take in your self-improvement journey be to put up the text in a visible place in your daily life, somewhere you'll see it every day so you can internalize it. You don't even have to be religious for this prayer to apply to your life, but if a higher power is a motivating force in your life, more power to you.
 
-<img src="../assets/images/prayer-of-serenity.jpg" title="Prayer of Serenity" alt="God grant me the serenity to accept the things I cannot change, courage to change the things I can, and the wisdom to know the difference." />
+![](/uploads/prayer-of-serenity.jpg)
 
 Thanks for reading.
-
-Your boy,
 
 Walter
