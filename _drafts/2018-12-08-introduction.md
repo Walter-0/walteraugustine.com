@@ -6,7 +6,7 @@ categories:
 - intro
 image: assets/images/me.png
 featured: true
-hidden: false
+hidden: true
 
 ---
 My name is Walter. I'm an American web developer from Nashua, New Hampshire. I enjoy lifting weights, shooting guns, and playing the piano. I'm also obsessed with self-improvement.
